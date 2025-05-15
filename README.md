@@ -16,5 +16,4 @@ A simple calculator FastAPI microservice demonstrating 12-Factor principles.
 
 ## Endpoints
 
-- `/health`
 - `/calc?a=2&b=3&op=add`
